@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently studying EC (engineering)<br>I do full-stack web development<br>I do AI machine building (PyTorch n TensorFlow)<br>I do computer automation (bash)<br>Currently trying out Cybersecurity and Power Queries as well<br>I do stage speaking, incredibly extroverted and excel at capturing crowds attention<br>I do powerlifting, weight training and calisthenics as a hobby in fitness<br>I do content creation for fun and engagement online<br>I am currently working to get a provisional patent as well.
+<br>https://portfolio-achyut07.vercel.app
 
 
 ## 🌐 Socials:
